@@ -1,0 +1,190 @@
+.star-rating {
+  line-height:32px;
+  font-size:1.25em;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.star-rating .fa-star{color: orange;}
+
+
+.content{
+    padding-bottom: 20px;
+    //background: #F5F5F5;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    color: black;
+    //border: 2px solid #4586EC;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.body{
+    padding-left: 5px;
+}
+.heading{
+    margin-top: 10px;
+}
+.send-mesage{
+    margin-top: 50px;
+}
+
+.footer{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.home{
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.donate{
+    padding: 50px;
+
+}
+.listing{
+    height: 200px;
+    background: white;
+    margin: 5px;
+    padding: 4px;
+    border: 1px solid #4586EC;
+}
+.listing-welcome{
+    height: 50px;
+    margin: 5px;
+}
+.list-name{
+    overflow:auto;
+    height: 155px;
+}
+
+.listing-big{
+    margin-top: 20px;
+    background: white;
+    padding: 20px;
+}
+.list-detail{
+    margin-bottom: 10px;
+}
+.btn-view{
+    border-radius: 0px;
+    position: absolute;
+    right:    0;
+    bottom:   0;
+}
+.btn-gray{
+    background: grey;
+    color: white;
+}
+.disabled{
+    cursor: not-allowed;
+}
+
+.line{
+    margin-top: 30px;
+    border:3px solid #f1f1f1
+}
+.p-rate{
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+.p-view{
+    margin-bottom: 0px;
+    margin-bottom: 0px;
+}
+.media-heading{
+    margin-bottom: 2px;
+}
+.your-review{
+    margin-top: 30px;
+}
+textarea { resize: none; }
+
+
+
+.error{
+    background:red;
+    color: white;
+    padding: 2px;
+    margin-top: 2px;
+    text-align: center;
+    border-radius: 5px;
+}
+.success{
+    background:#55BE53;
+    color: white;
+    padding: 2px;
+    margin-top: 2px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.heading-user {
+    font-size: 25px;
+    margin-right: 25px;
+}
+
+.fa-lg {
+    font-size: 25px;
+}
+.fa-sm {
+    font-size: 12px;
+}
+
+.checked {
+    color: orange;
+}
+
+/* Three column layout */
+.side {
+    float: left;
+    width: 10%;
+    margin-top: 10px;
+}
+.media{
+    float:left;
+    margin-top: 30px;
+}
+.media-left{
+    height: 60px;
+    width: 60px;
+}
+.media-object{
+    width: 50px;
+    height: 50px;
+}
+.media-body{
+    padding-left: 5px;
+}
+.middle {
+    float: left;
+    width: 80%;
+    margin-top: 10px;
+}
+
+/* Place text to the right */
+.right {
+    text-align: right;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* The bar container */
+.bar-container {
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    color: white;
+}
+
+/* Individual bars */
+.bar-5 {width: 60%; height: 18px; background-color: #4CAF50;}
+.bar-4 {width: 30%; height: 18px; background-color: #2196F3;}
+.bar-3 {width: 10%; height: 18px; background-color: #00bcd4;}
+.bar-2 {width: 4%; height: 18px; background-color: #ff9800;}
+.bar-1 {width: 15%; height: 18px; background-color: #f44336;}
