@@ -32,6 +32,9 @@
                         <li class="nav-item active">
                             <a class="nav-link" href="#">Login</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://sites.google.com/site/reratingsys/home">Website</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
